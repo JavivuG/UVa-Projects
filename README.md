@@ -18,6 +18,8 @@ Trabajos de asignaturas de la carrera Ingeniería Informática de la Universidad
 		- [Programas Básicos en C](https://github.com/JavivuG/FSO)
 	- Arquitectura y Organización de Computadoras (AOC)
 		- [Practicas en Ensamblador](https://github.com/JavivuG/AOC)
+	- Programación Orientada a Objetos (POO) 
+		- [Alquiler y Reserva de Bicis](https://gitlab.inf.uva.es/fralomo/entrega1-jagarci-fralomo)
 - ### 2º Cuatrimestre
 	- Estructura de Sistemas Operativos (ESO)
 		- [UVaShell y programas de linux en C](https://github.com/JavivuG/Estructura-de-Sistemas-Operativos)
