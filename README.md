@@ -28,3 +28,16 @@ Trabajos de asignaturas de la carrera Ingeniería Informática de la Universidad
 		- [Búsqueda en el sistema de libros](https://github.com/JavivuG/IPC-entrega2)
 	- Sistemas Distribuidos (SDist)
 		- [Laboratorios, seminarios y minilaboratorios](https://github.com/JavivuG/Sistemas-Distribuidos)
+## 3º Curso
+- ### 1º Cuatrimestre
+	- Arquitectura de Redes y Servicios (ARS)
+		- [Uso de estructuras de datos](https://github.com/JavivuG/ARS)
+	- Diseño, Administración y Seguridad de Redes (DASR)
+		- [Red Empresarial](https://github.com/JavivuG/DASR)
+	- Tecnología y Diseño de Bases de Datos (TDBD) 
+		- [Base de Datos](https://github.com/JavivuG/TDBD)
+- ### 2º Cuatrimestre
+	- Computación Paralela (CPAR)
+		- [Computación Paralela (OpenMP, MPI, CUDA)](https://github.com/JavivuG/CPAR)
+	- Servicios y Sistemas Web (SSW)
+		- [StudyHub, plataforma de aprendizaje](https://github.com/JavivuG/StudyHub)
