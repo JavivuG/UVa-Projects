@@ -24,6 +24,8 @@
 <td width="50%" valign="top">
 
 ### [StudyHub](https://github.com/JavivuG/StudyHub)
+<a href="https://github.com/JavivuG/StudyHub"><img src="https://raw.githubusercontent.com/JavivuG/StudyHub/master/docs/screenshots/panel-asignaturas.png" alt="Panel de asignaturas de StudyHub con foros y notificaciones"></a>
+
 Plataforma web colaborativa para compartir apuntes y resolver dudas en foros por asignatura, con roles, votos y recuperación de contraseña por correo.
 
 `Java Servlets/JSP` `MySQL` `Tomcat` `jQuery` `Maven`
